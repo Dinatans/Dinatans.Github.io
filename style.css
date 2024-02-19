@@ -1,0 +1,25 @@
+/* global css*/
+*{
+   font-family: 'Poppins', sans-serif;
+}
+.f-c-orange{
+    color: #E76F51;
+}
+img{
+    cursor: pointer; 
+}
+/* featured css */  
+.gray-scale{
+    filter: grayscale(100%);
+    transition: 1s;
+}
+.gray-scale:hover{
+    filter: grayscale(0%);
+}
+
+/* feedback css */
+.feedback ul li{
+    list-style: none;
+    color: #E77C40;
+}
+
